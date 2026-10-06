@@ -1,0 +1,9 @@
+{
+  "name": "genetika-battle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Game duel genetika hewan akuatik 2 pemain real-time berbasis Socket.IO",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
